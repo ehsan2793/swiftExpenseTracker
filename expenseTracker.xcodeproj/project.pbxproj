@@ -11,6 +11,7 @@
 		7C8A79EF2C03B7F000A6BF24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A79EE2C03B7F000A6BF24 /* ContentView.swift */; };
 		7C8A79F12C03B7F200A6BF24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C8A79F02C03B7F200A6BF24 /* Assets.xcassets */; };
 		7C8A79F42C03B7F200A6BF24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C8A79F32C03B7F200A6BF24 /* Preview Assets.xcassets */; };
+		7C8A79FB2C0433FC00A6BF24 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A79FA2C0433FC00A6BF24 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7C8A79EE2C03B7F000A6BF24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7C8A79F02C03B7F200A6BF24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C8A79F32C03B7F200A6BF24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7C8A79FA2C0433FC00A6BF24 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				7C8A79EC2C03B7F000A6BF24 /* expenseTrackerApp.swift */,
+				7C8A79FA2C0433FC00A6BF24 /* Extensions.swift */,
 				7C8A79EE2C03B7F000A6BF24 /* ContentView.swift */,
 				7C8A79F02C03B7F200A6BF24 /* Assets.xcassets */,
 				7C8A79F22C03B7F200A6BF24 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C8A79EF2C03B7F000A6BF24 /* ContentView.swift in Sources */,
+				7C8A79FB2C0433FC00A6BF24 /* Extensions.swift in Sources */,
 				7C8A79ED2C03B7F000A6BF24 /* expenseTrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
