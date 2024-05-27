@@ -15,7 +15,7 @@ struct ContentView: View {
                     Text("Overview")
                         .font(.title2)
                         .bold()
-                }
+                } //: Vstack
                 .padding()
                 .frame(maxWidth: .infinity)
             } //: Scrollview
